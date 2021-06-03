@@ -1,2 +1,2 @@
 # read-me-txt
-i am readingh
+i am reading
